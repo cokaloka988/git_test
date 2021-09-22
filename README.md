@@ -1,0 +1,1 @@
+This is Uros' first git project
